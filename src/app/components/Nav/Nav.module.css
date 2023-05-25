@@ -1,0 +1,18 @@
+.container {
+  position: fixed;
+  display: flex;
+  background-color: aliceblue;
+  height: 8%;
+  width: 100%;
+  border: 1px solid slateblue;
+  margin: auto;
+}
+
+.title {
+  font-size: 2rem;
+  align-self: center;
+  padding-left: 1rem;
+  font-family: "FantasqueSansM Nerd Font";
+  /* font-family: "Monocode"; */
+  /* font-family: "Pixel Operator"; */
+}
